@@ -34,9 +34,9 @@ We visualize the clusters in a 3D space to understand the distribution and chara
 ## Conclusion
 The customer segmentation results reveal four distinct groups:
 
-Cluster 0: Mainly older males with a lower spending score despite a decent income.
-Cluster 1: Younger females with a higher spending score and slightly lower income.
-Cluster 2: Primarily older females with a moderate spending score.
-Cluster 3: Younger males with higher income and substantial spending.
+- Cluster 0: Mainly older males with a lower spending score despite a decent income.
+- Cluster 1: Younger females with a higher spending score and slightly lower income.
+- Cluster 2: Primarily older females with a moderate spending score.
+- Cluster 3: Younger males with higher income and substantial spending.
 
 ==> These clusters provide valuable insights for targeted marketing strategies. Cluster 0 and Cluster 2, consisting of older individuals, may benefit from value-driven offerings, considering their lower spending propensity. On the other hand, Cluster 1 and Cluster 3, representing younger demographics, present opportunities for marketing higher-spending products.
